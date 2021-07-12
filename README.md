@@ -1,6 +1,6 @@
-# UAS_PBO_4423_A11.2019.11671
-        Nama: Muhammad Naufal Firdana Trisya
-        Nim: A11.2019.11671
+# UAS_PBO_4423_A11.2019.11677
+        Nama: Thowus Ajmalifanka 
+        Nim: A11.2019.11677
         Kelas: A11.4423
 
 # Persewaan Buku XYZ
@@ -15,4 +15,4 @@
 
 ## Penjelasan Alur Program
 
-file penjelasan alur program: https://github.com/Firdana-ac/PBO_4423_A11.2019.11671/blob/master/UAS%20PBO/UAS_PBO_A11.4423_A11.2019.11671_Muhammad%20Naufal%20Firdana%20Trisya.pdf
+file penjelasan alur program: 
