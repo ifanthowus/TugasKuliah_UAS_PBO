@@ -15,4 +15,4 @@
 
 ## Penjelasan Alur Program
 
-file penjelasan alur program: 
+file penjelasan alur program: https://github.com/ifanthowus/UAS_PBO/blob/main/UAS_PBO_A11.4423_Thowus%20Ajmalifanka_A11.2019.11677.pdf
